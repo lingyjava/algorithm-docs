@@ -10,9 +10,9 @@ import java.util.TreeSet;
 
 /**
  * @author ly
- * @createDate: 2023/3/22 10:52
+ * @apiNote HJ4 字符串分隔
  */
-public class Hw4 implements Solution {
+public class HJ4 implements Solution {
 
     @Test
     @Override
@@ -36,6 +36,4 @@ public class Hw4 implements Solution {
             }
         }
     }
-
-    
 }

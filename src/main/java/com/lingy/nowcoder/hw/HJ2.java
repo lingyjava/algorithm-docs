@@ -5,9 +5,20 @@ import org.junit.Test;
 
 /**
  * @author ly
- * @createDate: 2023/3/22 10:52
+ * @apiNote HJ2 计算某字符出现次数
  */
-public class Hw2 implements Solution {
+public class HJ2 implements Solution {
+
+    /*
+    * 给一个由字母、数字和空格组成的字符串和一个字符。
+    * 输出输入字符串中该字符的出现次数。不区分大小写字母。
+    *
+    * 输入：
+    * ABCabc
+    * A
+    * 输出：
+    * 2
+    * */
 
     @Test
     @Override

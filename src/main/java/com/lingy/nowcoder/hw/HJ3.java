@@ -10,9 +10,9 @@ import java.util.TreeSet;
 
 /**
  * @author ly
- * @createDate: 2023/3/22 10:52
- */
-public class Hw3 implements Solution {
+ * @apiNote HJ3 明明的随机数
+ * */
+public class HJ3 implements Solution {
 
     @Test
     @Override
@@ -34,6 +34,5 @@ public class Hw3 implements Solution {
             }
         }
     }
-
 
 }
