@@ -1,4 +1,4 @@
-package com.lingy.leetcode.offer.stack;
+package com.lingy.leetcode.offer;
 
 import com.lingy.api.Solution;
 

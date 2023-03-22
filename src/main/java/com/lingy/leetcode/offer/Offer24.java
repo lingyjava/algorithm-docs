@@ -1,4 +1,4 @@
-package com.lingy.leetcode.offer.list;
+package com.lingy.leetcode.offer;
 
 import com.lingy.api.ListNode;
 import org.junit.Test;

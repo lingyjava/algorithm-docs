@@ -15,6 +15,10 @@
 - [122·买卖股票的最佳时机II](/docs/leetcode/122·买卖股票的最佳时机II.md)
 
 ### 剑指offer
+- [6·从尾到头打印链表](/docs/leetcode/offer/6·从尾到头打印链表.md)
+- [9·用两个栈实现队列](/docs/leetcode/offer/9·用两个栈实现队列.md)
+- [24·反转链表](/docs/leetcode/offer/24·反转链表.md)
+- [30·包含min函数的栈](/docs/leetcode/offer/30·包含min函数的栈.md)
 
 ## 牛客
 
