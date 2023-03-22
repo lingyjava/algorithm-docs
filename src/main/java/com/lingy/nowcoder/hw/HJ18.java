@@ -13,7 +13,7 @@ import java.util.Scanner;
 public class HJ18 implements Solution {
 
     private static final int MAX_MASK = 255;
-    
+
     @Test
     @Override
     public void solution() {
