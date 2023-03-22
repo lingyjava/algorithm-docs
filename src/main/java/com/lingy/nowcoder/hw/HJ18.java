@@ -8,15 +8,12 @@ import java.util.Scanner;
 
 /**
  * @author ly
- * @Date: 2022/8/16 14:55
+ * @apiNote HJ18 识别有效的IP地址和掩码并进行分类统计
  */
-public class Hw18 implements Solution {
+public class HJ18 implements Solution {
 
     private static final int MAX_MASK = 255;
-
-    /**
-     * <a href = "https://www.nowcoder.com/practice/de538edd6f7e4bc3a5689723a7435682?tpId=37&tqId=21241&rp=1&ru=/exam/oj/ta&qru=/exam/oj/ta&sourceUrl=%2Fexam%2Foj%2Fta%3Fpage%3D1%26tpId%3D37%26type%3D37&difficulty=undefined&judgeStatus=undefined&tags=&title=">华为机试-18-识别有效的IP地址和掩码并进行分类统计</a>
-     * */
+    
     @Test
     @Override
     public void solution() {
